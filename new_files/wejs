@@ -1,0 +1,1 @@
+(function(t,r,i,p){i=t.createElement(r);i.src="https://www.tripadvisor.co.za/WidgetEmbed-linkingWidgetRedesign?border=true&locationId=422726&display_version=2&uniq=681&lang=en_ZA";i.async=true;p=t.getElementsByTagName(r)[0];p.parentNode.insertBefore(i,p)})(document,"script");
